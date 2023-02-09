@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478403467951",
+    "project_id": "webrtc-1-c5af7",
+    "storage_bucket": "webrtc-1-c5af7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478403467951:android:a718efe98d8fcb024ad25a",
+        "android_client_info": {
+          "package_name": "com.example.a211213_webrtc_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478403467951-099ur61lg4ophqnqba8cub9rvjlnv94a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBCFmHLbzz3P7HOiAmgQzpG9VES1smzac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478403467951-099ur61lg4ophqnqba8cub9rvjlnv94a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

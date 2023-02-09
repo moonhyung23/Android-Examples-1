@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.remotemonster:sdk:2.7.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5f21fa9db2be373a16c32e0de51f851a/transformed/jetified-sdk-2.7.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5f21fa9db2be373a16c32e0de51f851a/transformed/jetified-sdk-2.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f21fa9db2be373a16c32e0de51f851a/transformed/jetified-sdk-2.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f21fa9db2be373a16c32e0de51f851a/transformed/jetified-sdk-2.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.remotemonster/sdk/2.7.0/23116c8f3f5f149f797b1293b0ec36159c3f3b25/sdk-2.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
